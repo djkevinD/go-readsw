@@ -11,6 +11,8 @@ require (
 	github.com/subosito/gotenv v1.6.0
 	go.mau.fi/whatsmeow v0.0.0-20240828153534-8acde1ba8592
 	google.golang.org/protobuf v1.34.2
+	github.com/go-telegram-bot-api/telegram-bot-api/v5
+
 )
 
 require (
